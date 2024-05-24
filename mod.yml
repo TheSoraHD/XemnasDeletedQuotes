@@ -1,0 +1,9 @@
+title: Xemnas Deleted Quotes
+originalAuthor: 13th Vessel and Svenchu
+description: Did you know Xemnas had some extra voices inside the game files for 2 cut bosses that are never heard in-game? With this patch, now you can hear his unknown quotes while fighting Xemnas Armor 2!
+dependencies: 
+assets:
+- name: obj/B_EX180.mset
+  method: copy
+  source:
+  - name: obj/B_EX180.mset
